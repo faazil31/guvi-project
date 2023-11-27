@@ -1,0 +1,22 @@
+
+body {
+  background: linear-gradient(to right, #4e54c8, #8f94fb);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.inp_grp{
+  margin-top: 5px;
+}
+
+.form-container {
+  background: white;
+  border-radius: 10px;
+  width: 800px;
+  height: fit-content;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
